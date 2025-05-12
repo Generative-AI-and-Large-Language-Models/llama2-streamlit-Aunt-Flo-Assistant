@@ -20,7 +20,7 @@ Hello everyone, I am Aunt Flo Assistant. I will provide you with information reg
   ## Project Overview
 
   ## 🎥 Demo
-     ![Demo Screenshot]()  
+     ![Demo Screenshot](https://github.com/sfansaria/llama2-streamlit-Aunt-Flo-Assistant/blob/main/images/Welcome%20to%20the%20Aunt%20Flo%20Assistant.pdf#:~:text=images-,Welcome,-to%20the%20Aunt)  
      [Click here for a live demo]() 
   
   

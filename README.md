@@ -11,7 +11,7 @@ Hello everyone, I am Aunt Flo Assistant. I will provide you with information reg
 - [Getting Started ](#GettingStarted )
 - [Usage](#Usage)    
 - [Acknowledgement](#Acknowledgement)  
-- [License](#license)
+- [License](#License)
 
 
   ## Introduction
@@ -20,6 +20,17 @@ Hello everyone, I am Aunt Flo Assistant. I will provide you with information reg
   
   ## Prequisites
 
+  ## Installation
+
+  ## GettingStarted
+  
+  ## Usage
+
+  ## Acknowledgement
+
+  ## License
+  
+  
   
 
 

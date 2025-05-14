@@ -1,6 +1,4 @@
-## llama2 Streamlit Aunt Flo Assistant! 🦙🤖
-
-Hello everyone, I am Aunt Flo Assistant. I will provide you with information regarding Menstrual Cycle. I am a Q/A bot. 
+## llama2 Streamlit Aunt Flo Assistant 🦙🤖
 
 ## 📂 Contents
 
@@ -16,8 +14,29 @@ Hello everyone, I am Aunt Flo Assistant. I will provide you with information reg
    
 
   ## Introduction
-     Hello everyone, I am Aunt Flo Assistant. I will provide you with information regarding Menstrual Cycle. I am a Q/A bot. 
+     A lightweight, CPU-friendly chatbot for women's health education
+
+     This repository hosts the Aunt Flo Assistant, a conversational AI chatbot powered by the LLaMA-2-7B-Chat model (quantized using GGML), optimized to run efficiently on CPU-only, low-resource 
+     machines. The assistant is delivered via a Streamlit web application, offering an intuitive and user-friendly interface that makes interaction smooth and accessible without the need for GPU 
+     or cloud deployment.
+     The core inspiration behind this assistant stems from the need for an affordable, private, and responsive chatbot that can sustain contextual conversation, something often lacking in basic 
+     rule-based or stateless bots. By using the quantized version of LLaMA-2-7B-Chat, we bring powerful language generation capabilities to users without requiring specialized hardware.
+
+
+
   ## Project Overview
+     The repository contains all the necessary code and assets to set up and run a 
+     Streamlit-based Chatbot with Memory, powered by the LLaMA-2-7B-Chat (Quantized GGML) model. Below is a brief overview of the key components:
+
+     - ingest.py: Handles the data pipeline. It loads PDF documents, splits the text into smaller word-based chunks, and creates a FAISS vectorstore database that is later used by app.py for 
+       document retrieval during chat.
+
+     - app.py: The main Streamlit web application. It provides a clean, interactive interface where users can chat with the LLaMA 2-based assistant. It maintains conversation history using 
+       LangChain’s memory module for context-aware responses.
+
+     - llama-2-7b-chat.ggmlv3.q4_0.bin: These are the quantized model weights, optimized for CPU inference. The model is provided by TheBloke and can be manually downloaded from Hugging Face.
+
+     - requirements.txt: A list of required Python packages and libraries needed to run the application in a virtual environment.
 
   ## 🎥 Demo
      ![Demo Screenshot](https://github.com/sfansaria/llama2-streamlit-Aunt-Flo-Assistant/blob/main/images/Welcome%20to%20the%20Aunt%20Flo%20Assistant.pdf#:~:text=images-,Welcome,-to%20the%20Aunt)  

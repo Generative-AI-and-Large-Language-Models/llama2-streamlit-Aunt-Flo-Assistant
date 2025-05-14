@@ -13,13 +13,11 @@
    
 
   ## Introduction
-     A lightweight, CPU-friendly chatbot for women's health education
-
-     This repository hosts the Aunt Flo Assistant, a conversational AI chatbot powered by the LLaMA-2-7B-Chat model (quantized using GGML), optimized to run efficiently on CPU-only, low-resource 
-     machines. The assistant is delivered via a Streamlit web application, offering an intuitive and user-friendly interface that makes interaction smooth and accessible without the need for GPU 
-     or cloud deployment.
-     The core inspiration behind this assistant stems from the need for an affordable, private, and responsive chatbot that can sustain contextual conversation, something often lacking in basic 
-     rule-based or stateless bots. By using the quantized version of LLaMA-2-7B-Chat, we bring powerful language generation capabilities to users without requiring specialized hardware.
+     A lightweight, CPU-friendly chatbot for women's health education. This repository hosts the Aunt Flo Assistant, a conversational AI chatbot powered by the LLaMA-2-7B-Chat model (quantized 
+     using GGML), optimized to run efficiently on CPU-only, low-resource machines. The assistant is delivered via a Streamlit web application, offering an intuitive and user-friendly interface 
+     that makes interaction smooth and accessible without the need for GPU or cloud deployment. The core inspiration behind this assistant stems from the need for an affordable, private, and 
+     responsive chatbot that can sustain contextual conversation, something often lacking in basic rule-based or stateless bots. By using the quantized version of LLaMA-2-7B-Chat, we bring 
+     powerful language generation capabilities to users without requiring specialized hardware.
 
 
 

@@ -7,8 +7,7 @@
 - [Demo](#Demo)
 - [Prerequisites](#Prequisites)  
 - [Installation](#Installation)
-- [Getting Started ](#GettingStarted )
-- [Usage](#Usage)    
+- [Getting Started ](#GettingStarted ) 
 - [Acknowledgement](#Acknowledgement)  
 - [License](#License)
    
@@ -39,7 +38,7 @@
      - requirements.txt: A list of required Python packages and libraries needed to run the application in a virtual environment.
 
   ## 🎥 Demo
-     ![Demo Screenshot](https://github.com/sfansaria/llama2-streamlit-Aunt-Flo-Assistant/blob/main/images/Welcome%20to%20the%20Aunt%20Flo%20Assistant.pdf#:~:text=images-,Welcome,-to%20the%20Aunt)  
+     ![Demo Screenshot]()  
      [Click here for a live demo]() 
   
   
@@ -87,23 +86,14 @@ Simply type your messages in the input box and press "Enter" to send them to the
   
 
   ## Acknowledgement
-    🧠 Model Credits:
-       This project uses the quantized GGML version of LLaMA-2-7B-Chat, provided by 
-       ## TheBloke — huge thanks for making this accessible to the community!
-
-    🤝 Contribute & Connect:
-       Thank you for your interest in this project!
+     - This project uses the quantized GGML version of LLaMA-2-7B-Chat, provided by TheBloke. Huge thanks for making this accessible to the community!
+     - Thank you for your interest in this project!
        Feel free to open issues, submit pull requests, or share feedback — your contributions are always welcome.
 
 Happy chatting! 🤗
 
   ## License
      This project is licensed under the MIT License.
-  
-  
-
-
-
 
 
 ## Useful Links 🔗

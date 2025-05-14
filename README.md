@@ -52,7 +52,7 @@
      To run the chatbot locally, follow these steps:
 
      - ## Clone the repository:
-          - git clone https://github.com/sfansaria/llama2-streamlit-Aunt-Flo-Assistant.git 📋
+          - git clone https://github.com/sfansaria/llama2-streamlit-Aunt-Flo-Assistant.git 
           - cd Aunt_Flo_Assistant
   
      - ## Create and activate a virtual environment: 
@@ -60,7 +60,7 @@
           - conda activate AIchatBot
           - source AIchatBot/bin/activate  
      - ## Install the required dependencies:
-          - pip install -r requirements.txt
+          - ''' bash pip install -r requirements.txt'''
 
   ## GettingStarted
   

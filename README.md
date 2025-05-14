@@ -53,35 +53,52 @@
 
      - ## Clone the repository:
        ``` bash
-            git clone https://github.com/sfansaria/llama2-streamlit-Aunt-Flo-Assistant.git
+           git clone https://github.com/sfansaria/llama2-streamlit-Aunt-Flo-Assistant.git
        ``` 
        ``` bash
-            cd Aunt_Flo_Assistant
+           cd Aunt_Flo_Assistant
        ```
   
      - ## Create and activate a virtual environment: 
        ```bash
-           conda create -p AIchatBot python==3.10 --y
+          conda create -p AIchatBot python==3.10 --y
        ```
        ```bash
-           conda activate AIchatBot
+          conda activate AIchatBot
         ```
        ```bash
-           source AIchatBot/bin/activate
+          source AIchatBot/bin/activate
        ```  
      - ## Install the required dependencies:
        ``` bash
-              pip install -r requirements.txt
+           pip install -r requirements.txt
        ```
 
   ## GettingStarted
+     To run the Streamlit Chatbot with Memory, execute the following command:
+     ```bash
+        streamlit run app.py
+     ```
+     This will start the Streamlit server, and you can access the chatbot interface by opening your web browser and navigating to http://localhost:8501.
+
+Simply type your messages in the input box and press "Enter" to send them to the chatbot or click on the send button. The chatbot will respond based on the context of the conversation, thanks to its memory capabilities.
+
+ 
   
-  ## Usage
 
   ## Acknowledgement
+    🧠 Model Credits:
+       This project uses the quantized GGML version of LLaMA-2-7B-Chat, provided by 
+       ## TheBloke — huge thanks for making this accessible to the community!
+
+    🤝 Contribute & Connect:
+       Thank you for your interest in this project!
+       Feel free to open issues, submit pull requests, or share feedback — your contributions are always welcome.
+
+Happy chatting! 🤗
 
   ## License
-  
+     This project is licensed under the MIT License.
   
   
 

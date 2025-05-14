@@ -52,7 +52,7 @@
      To run the chatbot locally, follow these steps:
 
      - ## Clone the repository:
-          - git clone https://github.com/sfansaria/llama2-streamlit-Aunt-Flo-Assistant.git
+          - git clone https://github.com/sfansaria/llama2-streamlit-Aunt-Flo-Assistant.git 📋
           - cd Aunt_Flo_Assistant
   
      - ## Create and activate a virtual environment: 

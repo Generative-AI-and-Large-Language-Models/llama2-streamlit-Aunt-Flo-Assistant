@@ -51,27 +51,16 @@
   ## 🛠️ Installation
      To run the chatbot locally, follow these steps:
 
-     Clone the repository:
-
-     bash
-     Copy
-     Edit
-     git clone https://github.com/sfansaria/llama2-streamlit-Aunt-Flo-Assistant.git
-     cd luvtmt
+     - Clone the repository:
+       git clone https://github.com/sfansaria/llama2-streamlit-Aunt-Flo-Assistant.git
+       cd Aunt_Flo_Assistant
   
-(Optional but recommended) Create and activate a virtual environment:
-
-bash
-Copy
-Edit
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-Install the required dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
+     - Create and activate a virtual environment: 
+       conda create -p AIchatBot python==3.10 --y
+       conda activate AIchatBot
+       source AIchatBot/bin/activate  
+     - Install the required dependencies:
+       pip install -r requirements.txt
 
   ## GettingStarted
   

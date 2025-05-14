@@ -38,9 +38,8 @@
      - requirements.txt: A list of required Python packages and libraries needed to run the application in a virtual environment.
 
   ## 🎥 Demo
-     ![Demo Screenshot](./images/Aunt_Flo-Assistant_Screenshot.png)
-     ![App Screenshot](./images/.png)
-     [Click here for a live demo]() 
+     ![Aunt Flo Assistant Screenshot](./images/Aunt_Flo-Assistant_Screenshot.png)
+     
   
   
   ## Prequisites

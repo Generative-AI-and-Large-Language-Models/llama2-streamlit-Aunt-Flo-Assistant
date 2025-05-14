@@ -44,8 +44,34 @@
   
   
   ## Prequisites
+     Before running the Streamlit Chatbot with Memory, you need to have the following installed:
 
-  ## Installation
+     - Python (version 3.10)
+
+  ## 🛠️ Installation
+     To run the chatbot locally, follow these steps:
+
+     Clone the repository:
+
+     bash
+     Copy
+     Edit
+     git clone https://github.com/sfansaria/llama2-streamlit-Aunt-Flo-Assistant.git
+     cd luvtmt
+  
+(Optional but recommended) Create and activate a virtual environment:
+
+bash
+Copy
+Edit
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+Install the required dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
 
   ## GettingStarted
   

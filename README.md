@@ -60,7 +60,9 @@
           - conda activate AIchatBot
           - source AIchatBot/bin/activate  
      - ## Install the required dependencies:
-          - ''' bash pip install -r requirements.txt'''
+          ``` bash
+              pip install -r requirements.txt
+          ```
 
   ## GettingStarted
   

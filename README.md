@@ -38,7 +38,8 @@
      - requirements.txt: A list of required Python packages and libraries needed to run the application in a virtual environment.
 
   ## 🎥 Demo
-     ![Demo Screenshot]()  
+     ![Demo Screenshot](<img width="1512" alt="Screenshot 2025-05-14 at 13 18 07" src="https://github.com/user-attachments/assets/68603433-4c3a-474f-b522-f853b8d5071e" />
+)  
      [Click here for a live demo]() 
   
   
